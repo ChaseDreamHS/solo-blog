@@ -10,6 +10,7 @@ ChaseDreamHS 的个人博客
 
 ### 最新
 
+* [分布式事务解决方案](http://www.heshuaige.cn/articles/2019/11/04/1572837350408.html)
 * [世界，你好！](http://www.heshuaige.cn/hello-solo)
 
 
